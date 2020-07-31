@@ -190,7 +190,7 @@ Function InstallProgs {
 	
 	# Install programs
 	Write-Output "Installing Software"
-	choco install vlc GoogleChrome gimp vscode vnc-viewer autodesk-fusion360 filezilla postman cura MobaXTerm drawio arduino atubecatcher openvpn robo3t goggalaxy epicgameslauncher steam uplay origin 7zip adobereader choco install partitionmasterfree evga-precision-xoc geforce-experience virtualbox cura-new powertoys bitnami-xampp choco install nvidia-display-diver nvidia-geforce-now  -y
+	choco install vlc GoogleChrome gimp vscode vscode-settingssync vnc-viewer autodesk-fusion360 filezilla postman cura MobaXTerm drawio arduino atubecatcher openvpn robo3t goggalaxy epicgameslauncher steam uplay origin 7zip adobereader choco install partitionmasterfree evga-precision-xoc geforce-experience virtualbox cura-new powertoys bitnami-xampp choco install nvidia-display-diver nvidia-geforce-now  -y
 }
 
 ##########
