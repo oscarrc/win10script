@@ -88,7 +88,7 @@ $tweaks = @(
 	# "DisableFastStartup",         # "EnableFastStartup",
 
 	### UI Tweaks ###
-	"DisableActionCenter",          # "EnableActionCenter",
+	"EnableActionCenter",           # "DisableActionCenter",
 	"DisableLockScreen",            # "EnableLockScreen",
 	"DisableLockScreenRS1",       	# "EnableLockScreenRS1",
 	# "HideNetworkFromLockScreen",  # "ShowNetworkOnLockScreen",
@@ -103,7 +103,7 @@ $tweaks = @(
 	# "ShowSmallTaskbarIcons",      # "ShowLargeTaskbarIcons",
 	# "SetTaskbarCombineWhenFull",  # "SetTaskbarCombineNever",     # "SetTaskbarCombineAlways",
 	# "HideTaskbarPeopleIcon",      # "ShowTaskbarPeopleIcon",
-	"ShowTrayIcons",                # "HideTrayIcons",
+	"HideTrayIcons",                # "ShowTrayIcons",
 	"DisableSearchAppInStore",      # "EnableSearchAppInStore",
 	"DisableNewAppPrompt",          # "EnableNewAppPrompt",
 	# "SetControlPanelSmallIcons",  # "SetControlPanelLargeIcons",  # "SetControlPanelCategories",
